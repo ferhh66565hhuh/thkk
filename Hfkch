@@ -5,6 +5,6 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ferhh66565hhuh/thkk.git
 git push -u origin main
-warp://ml.amirhossein77.ir:255?ifp=20-30&ifps=30-40&ifpd=40-50&ifpm=m4#a&&detour=warp://ml.amirhossein77.ir:255?ifp=20-30&ifps=30-40&ifpd=40-50&ifpm=m4#a2
-warp://ml.amirhosseingoodarzi.ir:255?ifp=30-40&ifps=40-50&ifpd=50-60&ifpm=m4#b&&detour=warp://ml.amirhosseingoodarzi.ir:255?ifp=30-40&ifps=40-50&ifpd=50-60&ifpm=m4#b2
-warp://ml.sseinshow.ir:255?ifp=40-50&ifps=50-60&ifpd=60-70&ifpm=m4#v&&detour=warp://ml.sseinshow.ir:255?ifp=40-50&ifps=50-60&ifpd=60-70&ifpm=m4#v2
+warp://ml.amirhossein77.ir:10999?ifp=20-30&ifps=30-40&ifpd=40-50&ifpm=m4#a&&detour=warp://ml.amirhossein77.ir:10999?ifp=20-30&ifps=30-40&ifpd=40-50&ifpm=m4#a2
+warp://ml.amirhosseingoodarzi.ir:13456?ifp=30-40&ifps=40-50&ifpd=50-60&ifpm=m4#b&&detour=warp://ml.amirhosseingoodarzi.ir:13456?ifp=30-40&ifps=40-50&ifpd=50-60&ifpm=m4#b2
+warp://ml.sseinshow.ir:12345?ifp=40-50&ifps=50-60&ifpd=60-70&ifpm=m4#v&&detour=warp://ml.sseinshow.ir:12345?ifp=40-50&ifps=50-60&ifpd=60-70&ifpm=m4#v2
